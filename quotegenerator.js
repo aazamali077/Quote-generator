@@ -1,6 +1,6 @@
 const mainQuote = document.getElementById("main-quote");
 const author = document.getElementById("author");
-const jsonfile = "/jsondata.json";
+const jsonfile = "jsondata.json";
 let fetchedData = null;
 let quoteJson = null;
 let authorJson = null;
